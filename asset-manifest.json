@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/group-video-call-app/static/css/main.be2e936a.css",
+    "main.js": "/group-video-call-app/static/js/main.efa76118.js",
+    "index.html": "/group-video-call-app/index.html",
+    "main.be2e936a.css.map": "/group-video-call-app/static/css/main.be2e936a.css.map",
+    "main.efa76118.js.map": "/group-video-call-app/static/js/main.efa76118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2e936a.css",
+    "static/js/main.efa76118.js"
+  ]
+}
